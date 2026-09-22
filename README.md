@@ -6,6 +6,6 @@
 
 <br>
 
-<img src="assets/github-projects.png" alt="A humorous look at the projects behind this GitHub profile" width="900">
+<img src="assets/github-projects.png" alt="A humorous look at the projects behind this GitHub profile" width="500">
 
 </div>
