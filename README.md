@@ -2,7 +2,7 @@
 
 # Arthur Bellot
 
-### Data Engineer · Paris, France 🇫🇷
+### Data Engineer · Paris, France
 
 <br>
 
